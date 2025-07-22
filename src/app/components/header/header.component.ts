@@ -15,4 +15,9 @@ import {  MatDialogModule } from '@angular/material/dialog';
 })
 export class HeaderComponent {
 
+  public handleOpenModal(): void {
+    alert('Add new task');
+  }
+
+
 }
