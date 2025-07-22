@@ -38,7 +38,7 @@ body {
 .header {
   width: 100vw;
   height: 15vh;
-  background-color: #19976a;
+  background-color: #808080;
   border-bottom-left-radius: 1.5rem;
   border-bottom-right-radius: 1.5rem;
   display: flex;
@@ -48,7 +48,7 @@ body {
 
 .header_title {
   display: flex;
-  color: white;
+  color: #F67828;
   margin-top: 1.5rem !important;
   font-size: 40px !important;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
@@ -62,7 +62,7 @@ body {
   font-size: 20px !important;
   margin-right: 2rem !important;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
-  background-color: #125c42 !important;
+  background-color: #F67828 !important;
 }
 
 .todo_form_card {
@@ -105,13 +105,13 @@ body {
 .todo_card {
   width: 80%;
   margin: 1rem auto;
-  background-color: #19976a !important;
+  background-color: #808080 !important;
   border-radius: 1.8rem !important;
 }
 
 .todo_card_title {
   font-size: 25px !important;
-  color: white !important;
+  color: #F67828 !important;
 }
 
 .todo_card_subtitle {
@@ -130,6 +130,6 @@ body {
   align-items: center;
   margin-top: 1.5rem !important;
   font-size: 23px !important;
-  color: #19976a !important;
+  color: #F67828 !important;
 }
 
